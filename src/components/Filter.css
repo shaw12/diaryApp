@@ -1,0 +1,18 @@
+.container{
+    margin-top: 20px;
+    padding: 20px 40px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.filterContainer{
+    display: flex;
+    align-items: center;
+    margin-top: 10px;
+    
+}
+.filterContainer input{
+    width: auto;
+    padding: 5px 10px;
+    margin-right: 10px;
+}

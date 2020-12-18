@@ -1,0 +1,20 @@
+table{
+    width: 90%;
+    margin: auto;
+    margin-top: 20px;
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 10px;
+}
+th{
+    border: 1px solid ;
+    padding: 10px;
+}
+td{
+    text-align: center;
+    border-bottom: 1px solid #222;
+    padding: 10px;
+}
+td a{
+    margin-right: 15px;
+}
